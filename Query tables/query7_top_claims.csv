@@ -1,0 +1,11 @@
+age,gender,bmi,children,discount_eligibility,region,expenses,premium
+54,female,47.40,0,yes,southeast,63770.43,1275.41
+45,male,30.40,0,yes,southeast,62592.87,1251.86
+52,male,34.50,3,yes,northwest,60021.40,1200.43
+31,female,38.10,1,yes,northeast,58571.07,1171.42
+33,female,35.50,0,yes,northwest,55135.40,1102.71
+60,male,32.80,0,yes,southwest,52590.83,1051.82
+28,male,36.40,1,yes,southwest,51194.56,511.95
+64,male,37.00,2,yes,southeast,49577.66,1983.11
+59,male,41.10,1,yes,southeast,48970.25,979.41
+44,female,38.10,0,yes,southeast,48885.14,977.70

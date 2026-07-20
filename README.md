@@ -56,9 +56,6 @@ The project aims to:
 6. Premium vs claim comparison
 7. Top 10 highest insurance claims
 8. Claim analysis by number of children
-9. Claim amount categorization
-10. Region lookup using SQL JOIN
-11. Overall insurance portfolio summary
 
 ## Sample Business Questions Answered
 
